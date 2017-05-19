@@ -13,3 +13,7 @@
 ![](https://github.com/Vall21/-project/blob/master/met.JPG "Metod sravnenii")
 ## Диаграмма Парето
 ![](https://raw.githubusercontent.com/Vall21/-project/master/Pareto.JPG "Pareto")
+## Сетевой график
+![](https://raw.githubusercontent.com/Vall21/-project/master/seti.JPG "Seti")
+## Диаграмма Ганта
+![](https://raw.githubusercontent.com/Vall21/-project/master/Gant.JPG "Gant")
