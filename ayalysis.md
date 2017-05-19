@@ -12,3 +12,4 @@
 
 ![](https://github.com/Vall21/-project/blob/master/met.JPG "Metod sravnenii")
 ## Диаграмма Парето
+![](https://raw.githubusercontent.com/Vall21/-project/master/Pareto.JPG "Pareto")
